@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #b1ceea;
 }
 
 .navbar-collapse {
@@ -26,7 +26,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: #8c75c9;
 }
 
 .seccion-clara {
@@ -281,7 +281,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: rgb(123, 192, 224);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
