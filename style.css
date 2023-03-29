@@ -1,4 +1,7 @@
-/* Barra de navegacion */
+.alinear{
+  width:350px;/* Barra de navegacion */
+  height:250px;
+
 
 .navbar {
   padding: 2rem;
